@@ -1,0 +1,21 @@
+.nameofobjects{
+color:blue;
+}
+body{
+    background-color:darkturquoise;
+}
+.heading{
+width:80%;
+font-size:22px;
+background-color:blue;
+color:darkturquoise;
+}
+#camera,#result{
+    border:2px dashed blue;
+    width:350px;
+    height:300px;
+
+}
+#resultaccuracy,#resultojectname{
+    color:blue;
+}
